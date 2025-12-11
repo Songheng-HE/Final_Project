@@ -1,0 +1,12 @@
+Column Descriptors:
+Entity: Country or geographic region name
+Year: Year of observation
+Other renewables excluding bioenergy - TWh: Electricity generation from renewable sources excluding bioenergy
+Electricity from bioenergy - TWh: Generation from biological sources
+Electricity from solar - TWh: Solar power generation
+Electricity from wind - TWh: Wind power generation
+Electricity from hydro - TWh: Hydroelectric power generation
+Electricity from nuclear - TWh: Nuclear power generation
+Electricity from oil - TWh: Oil-based electricity generation
+Electricity from gas - TWh: Natural gas-based generation
+Electricity from coal - TWh: Coal-based electricity generation
